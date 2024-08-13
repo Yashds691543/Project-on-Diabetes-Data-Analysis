@@ -1,5 +1,5 @@
 # Project-on-Diabetes-Data-Analysis
-Python-based diabetes project, you conducted a comprehensive analysis of a diabetes dataset.
+Python-based diabetes project, I conducted a comprehensive analysis of a diabetes dataset.
 
 In this project, we focused on analyzing and predicting diabetes outcomes based on several key health indicators such as Blood Pressure, Insulin levels, Age Group, and BMI. Using Python, we employed various mathematical tools and machine learning techniques to process and understand the data. We began by cleaning and preparing the dataset, including encoding categorical variables using techniques like one-hot encoding. We then used StandardScaler to normalize the features, ensuring they were on a comparable scale.
 
